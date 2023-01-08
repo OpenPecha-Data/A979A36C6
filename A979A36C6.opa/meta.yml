@@ -1,0 +1,31 @@
+id: A979A36C6
+title: Brief Windhorse Invocation
+type: translation
+pechas:
+- I1778582A
+- I30D47EE3
+- ID5DA8DD5
+- IE36363E1
+- I64FF61F3
+- I058B00C6
+source_metadata:
+  languages:
+  - en
+  - de
+  - es
+  - fr
+  - pt
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:09:19.450769
+  last_modified_at: 2023-01-04 13:09:19.450778
+  collections:
+  - Mipham Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I1778582A/4C48: '8747'
+  I30D47EE3/B4D5: '8747'
+  ID5DA8DD5/1E2C: '8747'
+  IE36363E1/63A8: '8747'
+  I64FF61F3/BA46: '8747'
+  I058B00C6/6536: '8747'

@@ -1,0 +1,67 @@
+segment_sources:
+  I1778582A:
+    type: origin_type
+    relation: translation
+    base: 4C48
+    lang: en
+  I30D47EE3:
+    type: origin_type
+    relation: translation
+    base: B4D5
+    lang: de
+  ID5DA8DD5:
+    type: origin_type
+    relation: translation
+    base: 1E2C
+    lang: es
+  IE36363E1:
+    type: origin_type
+    relation: translation
+    base: 63A8
+    lang: fr
+  I64FF61F3:
+    type: origin_type
+    relation: translation
+    base: BA46
+    lang: pt
+  I058B00C6:
+    type: origin_type
+    relation: translation
+    base: '6536'
+    lang: bo
+segment_pairs:
+  1886e9c4ae7c43228a20807712b472ee:
+    I1778582A: 3494304fca0a439e93cc0a7ac681d0fb
+    I30D47EE3: b913f7ed671b44ada8689ed7270809a7
+    ID5DA8DD5: 93b20098b85f4765a9474ce5d4ae5c85
+    IE36363E1: 727a2eaa8e3d4f3b94be649beaf0c2c3
+    I64FF61F3: b85234c9c9c54427b710fdf1f1eb074f
+    I058B00C6: ac7275c527804475ac05125c36d36ae3
+  90776324141b4fa989546d3518e71752:
+    I1778582A: d8d6adc0c51c4fbc80c9a17f8e0ebb7e
+    I30D47EE3: 157a94ba139149288843bc4c471bb5b8
+    ID5DA8DD5: 4b75383a322842e1b173d9864f890bb6
+    IE36363E1: 531d681e5d914923bbd9bc35a237f896
+    I64FF61F3: b2aeaf0def434cd695984529c4daa3c0
+    I058B00C6: 1b4edce84fa9447891d03e1164b436c2
+  1a68ffd641ff4eafb6cb00097133ec45:
+    I1778582A: 5b35f26a74b547e68d7a467e6e636504
+    I30D47EE3: 38b786fb11804a19b688e851905d543a
+    ID5DA8DD5: 67a4619d7f664f9991731739f79c53bc
+    IE36363E1: 8a87e38e72e64967829d9f1054125dea
+    I64FF61F3: eb236e0887504a27b47885040631f63d
+    I058B00C6: 35a6b045d5884ebfbfd6f769799d353e
+  fb2eabb597864c5db60a9a14572d98fb:
+    I1778582A: 7d0ccfbc45f84ff897c30f95185cae21
+    I30D47EE3: bb7f8d11bec44fdb9abffbcc9a6a4707
+    ID5DA8DD5: 2101aba926e34b3ebef511cf9c3e5cb2
+    IE36363E1: 997dbf8e4b534b2db2caece905365636
+    I64FF61F3: 403360dd845343c3bdc4bc16ce10684d
+    I058B00C6: 0005c847a265414ebdbcb3a04aac1961
+  38e126ee0beb4d4bbe9af3acca495afa:
+    I1778582A: 0df540e34f5348b3969e26aef9b204cc
+    I30D47EE3: c7d8d709e3d440f092fbb903eccfdf44
+    ID5DA8DD5: 4cf51f95886548dc9b0ed66838ca989a
+    IE36363E1: 0b61ba1f54fe4128902e30a54a0fd96d
+    I64FF61F3: c5dec5f339e946219d68b5069860846f
+    I058B00C6: d38059e0587c4cb684f1a617a0f95369
